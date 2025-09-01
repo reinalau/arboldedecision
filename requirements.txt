@@ -1,0 +1,2 @@
+# No se requieren dependencias externas para este servicio
+# El código utiliza solo librerías estándar de Python
