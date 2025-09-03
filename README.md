@@ -1,6 +1,9 @@
 # Servicio de Evaluación de Préstamos desplegado en AWS
 (este reto fue propuesto por la genia de @roxsross 💗 )
 
+## Deeep wiki by github
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/reinalau/arboldedecision)
+
 ## Descripción
 Servicio Python para AWS Lambda que implementa un árbol de decisión para evaluar solicitudes de préstamos bancarios de acuerdo a una logica determinada.
 TOTALMENTE PERFECTIBLE!! 🤓 
